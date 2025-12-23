@@ -11,6 +11,10 @@ from PIL import Image
 #import plotly.figure_factory as ff
 
 
+pdf_url = "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:423f9546-22c7-4abf-a3fd-fc49cae5872d"
+
+st.pdf(pdf_url, height=600)
+
 """
 # Welcome to Chris Franklin's StreamLit Web App for Deploying DataScience Projects!
 This is inspired from the StreamLit.io site.
