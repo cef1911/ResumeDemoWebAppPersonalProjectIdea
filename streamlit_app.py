@@ -165,7 +165,7 @@ option = st.selectbox(
 
 'You selected: ', option
 
-st.pdf("https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:423f9546-22c7-4abf-a3fd-fc49cae5872d")
+#st.pdf("https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:423f9546-22c7-4abf-a3fd-fc49cae5872d")
 
 image = Image.open('CalebAwuahResume.png')
 
