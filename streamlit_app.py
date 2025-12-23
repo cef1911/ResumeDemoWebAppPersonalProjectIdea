@@ -16,7 +16,6 @@ from PIL import Image
 This is inspired from the StreamLit.io site.
 See the website for more info https://streamlit.io/
 
-st.pdf("https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:423f9546-22c7-4abf-a3fd-fc49cae5872d")
 
 My name is Chris Franklin. I work in data science on several data science projects.  
 I have completed projects in web-scraping, sentiment analysis, time-series, nlp, robotics with python and data visualizations of all types. 
@@ -165,6 +164,8 @@ option = st.selectbox(
      df['first column'])
 
 'You selected: ', option
+
+st.pdf("https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:423f9546-22c7-4abf-a3fd-fc49cae5872d")
 
 image = Image.open('CalebAwuahResume.png')
 
