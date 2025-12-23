@@ -10,7 +10,7 @@ from PIL import Image
 #import plotly as px
 #import plotly.figure_factory as ff
 
-https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:423f9546-22c7-4abf-a3fd-fc49cae5872d
+#https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:423f9546-22c7-4abf-a3fd-fc49cae5872d
 
 #pdf_url = ("file:///C:/Users/cef19/Downloads/Caleb%20Official%20resume%20(1).pdf")
 
@@ -21,6 +21,7 @@ https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:423f9546-22c7-4abf-a3fd-fc49cae58
 This is inspired from the StreamLit.io site.
 See the website for more info https://streamlit.io/
 
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:423f9546-22c7-4abf-a3fd-fc49cae5872d
 
 My name is Chris Franklin. I work in data science on several data science projects.  
 I have completed projects in web-scraping, sentiment analysis, time-series, nlp, robotics with python and data visualizations of all types. 
