@@ -10,10 +10,11 @@ from PIL import Image
 #import plotly as px
 #import plotly.figure_factory as ff
 
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:423f9546-22c7-4abf-a3fd-fc49cae5872d
 
 #pdf_url = ("file:///C:/Users/cef19/Downloads/Caleb%20Official%20resume%20(1).pdf")
 
-st.pdf(pdf_url, height=600)
+#st.pdf(pdf_url, height=600)
 
 """
 # Welcome to Chris Franklin's StreamLit Web App for Deploying DataScience Projects!
