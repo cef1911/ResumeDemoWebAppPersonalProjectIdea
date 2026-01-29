@@ -21,9 +21,10 @@ from PIL import Image
 This is inspired from the StreamLit.io site.
 See the website for more info https://streamlit.io/
 
-Click the link to view Caleb's Resume 
+Click the link to view a sample resume template web app
 
-https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:423f9546-22c7-4abf-a3fd-fc49cae5872d
+https://acrobat.adobe.com/id/urn:aaid:sc:us:39641afc-f344-464a-8ebf-f5eaea866ace
+
 
 """
 
