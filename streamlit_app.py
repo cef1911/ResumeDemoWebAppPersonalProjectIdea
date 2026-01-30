@@ -33,9 +33,9 @@ https://acrobat.adobe.com/id/urn:aaid:sc:us:39641afc-f344-464a-8ebf-f5eaea866ace
 
 #st.image(image, caption='Resume Pic Demo')
 
-#st.balloons()
+st.balloons()
 
-#st.snow()
+st.snow()
 
 #import streamlit as st, random, time    
 
