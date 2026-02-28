@@ -23,7 +23,9 @@ See the website for more info https://streamlit.io/
 
 Click the link to view a sample resume template web app
 
-https://acrobat.adobe.com/id/urn:aaid:sc:us:39641afc-f344-464a-8ebf-f5eaea866ace
+# https://acrobat.adobe.com/id/urn:aaid:sc:us:39641afc-f344-464a-8ebf-f5eaea866ace
+
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:e1470636-9391-4d16-9dbf-254e999f685f
 
 
 """
